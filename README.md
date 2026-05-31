@@ -1,6 +1,6 @@
 # Hi, I'm Vytautas 👋
 
-I'm a career-changing Junior Full Stack Developer building web and mobile applications with TypeScript, React, Next.js, Supabase, and AI integrations.
+I'm a career-changing Full Stack Developer building web and mobile applications with TypeScript, React, Next.js, Supabase, and AI integrations.
 
 Currently focused on building real-world projects, improving my software engineering fundamentals, and growing into a strong product-minded developer.
 
@@ -24,12 +24,10 @@ AI-powered document processing tool that extracts structured data from PDF docum
 ### Fastiva
 Mobile fasting tracker built with React Native, Expo, and TypeScript.
 
-## What I'm working on
-
-- Improving JavaScript and TypeScript fundamentals
-- Building full stack applications with Next.js and Supabase
-- Learning more about databases, authentication, and secure user data access
-- Exploring useful AI integrations in real products
+## Current Focus
+- Full Stack Development
+- Software Engineering Fundamentals
+- AI-Powered Applications
 
 ## Links
 
